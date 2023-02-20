@@ -1,0 +1,21 @@
+Para django despues de descargar python
+-Agregar una nueva carpeta en donde sea con el nombre del proyecto (calendario en documentos)
+	-Abrimos terminal y nos dirigimos a la carpeta, ahi ingresamos:
+📝Comprobar la version:
+python --version
+📝acceder a una carpeta en cdm:
+cd nombredelacarpeta
+📝Crear un entorno:
+py -m venv calendario
+📝activar el entorno:
+calendario\Scripts\activate
+📝instalar django:
+pip install Django==versión que marca la pagina de django
+📝verificar la instalación de Django:
+pip freeze
+📝crear un proyecto:
+django-admin startproject calendario
+📝activar el servidor:
+(calendario) C:\Users\Jon\Documents\django\Generador>python manage.py startapp generar
+📝crear una app:
+python manage.py startapp calendario

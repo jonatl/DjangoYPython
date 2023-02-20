@@ -1,0 +1,9 @@
+Para angular despues de descargar Node.js
+-Agregar una nueva carpeta en donde sea con el nombre del proyecto (Spa en documento)
+	-Abrimos terminal y nos dirigimos a la carpeta, ahi ingresamos:
+	*ng new angularEjmp
+	*yes	
+	*css y enter
+-cerramos terminal y nos dirijimos a la carpeta que creamos y abrimos con el editor de codigo VSCODE
+-abrimos nueva terminal
+	*ng serve --o
