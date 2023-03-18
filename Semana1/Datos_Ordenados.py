@@ -1,0 +1,12 @@
+numeros=[1,3,5,2,5,8]
+numeros2=sorted(numeros,reverse=True)
+print(numeros)
+print(numeros2)
+usuarios=[[7,"pepe"],
+[2,"Maria"],
+[12,"Cleo"],
+[4,"Sorjuana"],
+[1,"Mario"]]
+#usuarios.sort()
+print(usuarios)
+print("+++++++++++++")
